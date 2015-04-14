@@ -89,8 +89,7 @@
         <div class="container">
             <div class="inner-container">
                 <h2>Hire Me!</h2>
-                <p>I love collaborating on projects and I love coffee! If you like my work and would like to meet over a cup of coffee to see how I can work with you and/or vice versa, please get in touch :-)
-                </p>
+                <p>I love collaborating on projects. If you like my work and would like to try me out, please get in touch with me.</p>
             </div>
         </div>
         <div class="container">

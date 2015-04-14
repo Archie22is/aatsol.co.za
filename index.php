@@ -2,8 +2,8 @@
 <html lang="en-US">
 <head>
     <meta charset="UTF-8">
-    <title>Archie Makuwa(@aatsol) - a Developer, an Entrepreneur and Internet Citizen</title>
-    <meta name="description" content="Archie Makuwa(@aatsol) - a Developer, an Entrepreneur and Internet Citizen">
+    <title>Archie Makuwa(@aatsol) - a Software Developer, Entrepreneur &amp; RHoK(er)</title>
+    <meta name="description" content="Archie Makuwa(@aatsol) - a Software Developer, Entrepreneur &amp; RHoK(er)">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700' rel='stylesheet' type='text/css'>
@@ -25,12 +25,11 @@
             <div class="title">
                 <img src="images/archie.jpg" alt="Archie Makuwa (aatsol)" title="Archie Makuwa (aatsol)" />
                 <h1>Hi, I'm Archie.</h1>
-                <p>I'm Software Developer, Dntrepreneur &amp;
+                <p>I'm Software Developer, Entrepreneur &amp;
                     <a href="http://en.wikipedia.org/wiki/Random_Hacks_of_Kindness#Featured_hacks" target="_blank">
-                        RHoKer
-                    </a>.
+                        RHoK(er)</a>.
                     <br>
-                    I'm currently lead a great bunch of developers at <a href="http://www.struto.co.uk" target="_blank">
+                    I'm currently leading a great bunch of developers at <a href="http://www.struto.co.uk" target="_blank">
                         Struto</a> &amp; I write code for <a href="http://www.thebillplease.co.za/">TheBillPlease</a>.
                 <p>
                 <p>You can connect with me on the following platforms:</p>

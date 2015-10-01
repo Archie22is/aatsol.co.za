@@ -18,20 +18,26 @@
     </script>
 </head>
 
-
 <body>
     <header>
         <div class="container">
             <div class="title">
+                <a href="http://archie.makuwa.co.za/blog/" class="my-blog">
+                    <span>Blog</span>
+                </a>
+                <?php  
+                    include ('includes/functions.php');
+                ?>
                 <img src="images/archie.jpg" alt="Archie Makuwa (aatsol)" title="Archie Makuwa (aatsol)" />
                 <h1>Hi, I'm Archie.</h1>
                 <p>I'm Software Developer, Entrepreneur &amp;
                     <a href="http://en.wikipedia.org/wiki/Random_Hacks_of_Kindness#Featured_hacks" target="_blank">
                         RHoK(er)</a>.
                     <br>
-                    I'm currently leading a great bunch of developers at <a href="http://www.struto.co.uk" target="_blank">
-                        Struto</a> &amp; I write code for <a href="http://www.thebillplease.co.za/">TheBillPlease</a>.
                 <p>
+                <p>I am the founder of <a href="http://www.aatsol.co.za/" target="_blank">Archie's Advanced Technology</a> (2007 ~ 2012), 
+                <a href="http://www.thebillplease.co.za/" target="_blank">TheBillPlease</a> (2015 ~ current) and I'm currently leading a great bunch of developers at 
+                <a href="http://www.struto.co.uk" target="_blank">Struto</a>.</p>
                 <p>You can connect with me on the following platforms:</p>
                 <ul class="social-icons">
                     <li>

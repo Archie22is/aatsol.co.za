@@ -144,9 +144,9 @@ a {
     width: 800px;
 }
 
-.inner-container{
+.inner-container {
     margin: 0 auto;
-    padding: 20px;
+    padding: 20px 0;
     max-width: 580px;
     width: 100%;
 }
@@ -180,6 +180,39 @@ header p {
     max-width: 680px;
     margin: 1em auto;
 }
+
+
+
+/* ==========================================================================
+    Read Blog
+========================================================================== */
+a.my-blog {
+  background-color: #006989;
+  border-radius: 30px;
+  display: block;
+  height: 60px;
+  position: absolute;
+  right: 20px;
+  width: 60px;
+}
+
+a.my-blog:hover {
+  background-color: #fff;
+  border: 1px solid #006989;
+}
+
+a.my-blog span {
+  color: #fff;   
+  font-size: 18px; 
+  display: block;
+  padding: 13px 10px; 
+}
+
+a.my-blog:hover * {
+  color: #006989 !important;
+}
+
+
 
 
 /* ==========================================================================
@@ -570,6 +603,11 @@ footer .container{
     padding: 0;
 }
 
+p#credits {
+  line-height: 1.3em;
+  padding: 0 20px;
+}
+
 
 
 /* ==========================================================================
@@ -661,22 +699,21 @@ footer .container{
 
 }
 
+
 @media only screen and (min-width: 541px) and (max-width: 860px) {
 
-
+    .container {
+      width: 520px;
+    }
     /* location */
     .location .container {
-        max-width: 590px;
+        /* max-width: 590px; */
     }
     .location p {
         font-size: 1.25em;
         line-height: 1.5em;
     }
 }
-
-
-
-
 
 
 /* Layout */
@@ -730,5 +767,14 @@ footer .container{
         font-weight: bold;
         text-transform: none;
     }
+}
+
+
+@media screen and (max-width: 480px) {
+
+  ul.social-icons {
+    width: 100%;
+  }
+
 }
 

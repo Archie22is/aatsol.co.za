@@ -171,8 +171,8 @@ header h1 {
 }
 
 header img {
-    width: 100px;
-    height: 100px;
+    width: 140px;
+    height: 140px;
     border-radius: 50%;
 }
 
@@ -188,9 +188,12 @@ header p {
 ========================================================================== */
 a.my-blog {
   background-color: #006989;
-  border-radius: 30px;
+  border-radius: 40px;
+  color: #fff;
   display: block;
+  font-size: 18px;
   height: 60px;
+  padding: 25px 10px 0;
   position: absolute;
   right: 20px;
   width: 60px;
@@ -199,17 +202,7 @@ a.my-blog {
 a.my-blog:hover {
   background-color: #fff;
   border: 1px solid #006989;
-}
-
-a.my-blog span {
-  color: #fff;   
-  font-size: 18px; 
-  display: block;
-  padding: 13px 10px; 
-}
-
-a.my-blog:hover * {
-  color: #006989 !important;
+  color: #006989;
 }
 
 
@@ -587,6 +580,16 @@ ul.slick-dots {
 
 
 
+/* ==========================================================================
+    Professional Work
+========================================================================== */
+.professional-work {
+    background-color: #006989;
+    color: #fff;
+}
+
+
+
 
 /* ==========================================================================
     Footer
@@ -646,8 +649,22 @@ p#credits {
         margin-right: 10px;
     }
     header p {
-        font-size: 1.25em;
-        line-height: 1.5em;
+        font-size: 1em !important;
+        line-height: 1.25em !important;
+    }
+
+    /* Blog */
+    a.my-blog {
+      background-color: #006989;
+      border-radius: 40px;
+      color: #fff;
+      display: block;
+      font-size: 14px;
+      height: 35px;
+      padding: 18px 10px 0;
+      position: absolute;
+      right: 20px;
+      width: 30px;
     }
 
     /* skills */
@@ -772,9 +789,20 @@ p#credits {
 
 @media screen and (max-width: 480px) {
 
+  html, body {
+    font-size: 1em !important;
+  }
+
+  header .container {
+    padding: 30px 20px;
+  }
+
+  header h1 {
+    font-size: 1.8em !important;
+  }
+
   ul.social-icons {
     width: 100%;
   }
 
 }
-

@@ -34,9 +34,9 @@
                         RHoK(er)</a>.
                     <br>
                 <p>
-                <p>I am the founder of <a href="http://www.aatsol.co.za/" target="_blank">Archie's Advanced Technology</a> (2007 ~ 2012),
-                <a href="http://www.thebillplease.co.za/" target="_blank">TheBillPlease</a> (2015 ~ current) and I'm <strike>currently leading a great bunch of developers</strike> a developer at
-                <a href="http://www.struto.co.uk" target="_blank">Struto</a>.</p>
+                <p>I am a founder &amp; developer at <a href="http://www.thebillplease.co.za" alt="_blank">thebillplease/<span style="color:red;">></span></a>. I was leading a bunch great of developers at <a href="http://www.struto.co.uk" alt="_blank">Struto Ltd</a> in the previous year (Dec 14 – Dec 15).</p>
+                
+                <p>Some of you may know me from <a href="http://www.aatsol.co.za/" target="_blank">Archie's Advanced Technology Solutions</a> (2007 ~ 2012).</p>
                 <p>You can connect with me on the following platforms:</p>
                 <ul class="social-icons">
                     <li>
@@ -88,7 +88,7 @@
         </div>
     </section>
 
-    <!-- Some GitHub Swagg -->
+    <!-- Some GitHub Swagg 
     <section class="github-swagg">
         <div class="container">
             <div class="inner-container">
@@ -110,13 +110,14 @@
             </div>
         </div>
     </section>
+    -->
 
     <!-- Professional Work -->
     <section class="professional-work">
         <div class="container">
             <div class="inner-container">
                 <h2>Hire Me!</h2>
-                <p>I love collaborating on projects. If you like my work and would like to try me out, please get in touch with me.</p>
+                <p>Well, what are you waiting for? Let's collaborate or let me do the work for you. Get in <a href="mailto:archie@aatol.co.za">touch with me right</a> now!</p>
             </div>
         </div>
     </section>

@@ -106,7 +106,8 @@
     Body Styling
 ========================================================================== */
 html, body {
-    font: 1.20em "Open Sans", Helvetica, Arial, sans-serif;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 1.1em;
     color: #3b3939;
     line-height: 1.5em;
 }
@@ -149,6 +150,10 @@ a {
     padding: 20px 0;
     max-width: 580px;
     width: 100%;
+}
+
+.inner-container a {
+    color: #fc0;
 }
 
 body:before {
